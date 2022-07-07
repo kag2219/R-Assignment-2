@@ -9,7 +9,7 @@ arr/3
 # Use the sample method to get a random number from 'arr'
 sample(x=arr, size=1)
 # Round the value of Pi to 2 digits  (pi = 3.14159265359)
-round(x=3.14159265359,digits=1)
+round(x=3.14159265359,digits=2)
 # Create a function that simulates the roll of 2 di and returns the sum of both dice rolled
 rollFunc <- function()
 {
